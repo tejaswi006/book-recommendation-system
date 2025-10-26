@@ -1,1 +1,1 @@
-# book-recommendation-system
+# book-recommender-system
